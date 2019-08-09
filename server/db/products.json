@@ -1,0 +1,67 @@
+[
+  {
+    "id_product": 123,
+    "product_name": "Ноутбук",
+    "price": 3000
+  },
+  {
+    "id_product": 456,
+    "product_name": "Мышка",
+    "price": 10
+  },
+  {
+    "id_product": 466,
+    "product_name": "Монитор",
+    "price": 200
+  },
+  {
+    "id_product": 467,
+    "product_name": "Планшет",
+    "price": 250
+  },
+  {
+    "id_product": 468,
+    "product_name": "Электронная книга",
+    "price": 100
+  },
+  {
+    "id_product": 469,
+    "product_name": "Колонки",
+    "price": 30
+  },
+  {
+    "id_product": 470,
+    "product_name": "Микрофон",
+    "price": 5
+  },
+  {
+    "id_product": 471,
+    "product_name": "Принтер",
+    "price": 180
+  },
+  {
+    "id_product": 472,
+    "product_name": "Роутер",
+    "price": 25
+  },
+  {
+    "id_product": 473,
+    "product_name": "Клавиатура",
+    "price": 15
+  },
+  {
+    "id_product": 474,
+    "product_name": "Веб-камера",
+    "price": 15
+  },
+  {
+    "id_product": 475,
+    "product_name": "Кардридер",
+    "price": 10
+  },
+  {
+    "id_product": 476,
+    "product_name": "Сумка",
+    "price": 100
+  }
+]

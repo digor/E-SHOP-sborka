@@ -1,0 +1,30 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 9,
+            "id_product": 123,
+            "product_name": "Ноутбук",
+            "price": 3000
+        },
+        {
+            "quantity": 19,
+            "id_product": 466,
+            "product_name": "Монитор",
+            "price": 200
+        },
+        {
+            "quantity": 4,
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 10
+        },
+        {
+            "quantity": 2,
+            "id_product": 469,
+            "product_name": "Колонки",
+            "price": 30
+        }
+    ]
+}
